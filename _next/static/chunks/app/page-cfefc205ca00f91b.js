@@ -779,7 +779,7 @@
                       "relative z-10 max-w-xl rounded-2xl p-6 text-center bg-gradient-to-br from-pink-950 border-1 border-pink-300/80 via-purple-950 to-indigo-950 drop-shadow-2xl",
                     children: [
                       (0, i.jsx)("img", {
-                        src: "/birthday-v3-demo.vercel.app/gifs/surprise.gif",
+                        src: "//gifs/surprise.gif",
                         alt: "surprise",
                         className: "mx-auto w-44 md:w-52 object-cover",
                       }),
