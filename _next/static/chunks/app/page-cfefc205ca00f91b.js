@@ -667,7 +667,7 @@
                         children: (0, i.jsx)("img", {
                           width: "100%",
                           className: "h-full",
-                          src: "/birthday-v3-demo.vercel.app/images/cover.webp",
+                          src: "/images/cover.webp",
                         }),
                       }),
                       (0, i.jsx)("p", {
