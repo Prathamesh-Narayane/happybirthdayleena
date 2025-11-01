@@ -91,7 +91,7 @@
             className: "flex flex-col items-center gap-6",
             children: [
               (0, i.jsx)("img", {
-                src: "/birthday-v3-demo.vercel.app/gifs/intro.gif",
+                src: "/gifs/intro.gif",
                 alt: "Cute birthday animation topper",
                 className: "w-[140px] md:w-[180px]  object-cover",
               }),
@@ -745,7 +745,7 @@
                     l(!0), o(), setTimeout(o, 300);
                   },
                   children: (0, i.jsx)("img", {
-                    src: "/birthday-v3-demo.vercel.app/gifs/gift.gif",
+                    src: "/gifs/gift.gif",
                     alt: "Gift box",
                     className: "h-44 w-44 md:h-52 md:w-52 object-cover",
                   }),
@@ -779,7 +779,7 @@
                       "relative z-10 max-w-xl rounded-2xl p-6 text-center bg-gradient-to-br from-pink-950 border-1 border-pink-300/80 via-purple-950 to-indigo-950 drop-shadow-2xl",
                     children: [
                       (0, i.jsx)("img", {
-                        src: "//gifs/surprise.gif",
+                        src: "/gifs/surprise.gif",
                         alt: "surprise",
                         className: "mx-auto w-44 md:w-52 object-cover",
                       }),
