@@ -575,7 +575,7 @@
                   transition: { duration: 0.8 },
                   className:
                     "text-3xl md:text-5xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-fuchsia-400 to-purple-400 drop-shadow",
-                  children: "Some Sweet Moments",
+                  children: "Some Sweet Photos",
                 }),
                 (0, i.jsx)("p", {
                   className: "text-sm text-rose-100/90 mt-1",
