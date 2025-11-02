@@ -111,7 +111,7 @@
                     style: {
                       filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                     },
-                    children: "A Cutiepie was born today, 20 years ago!",
+                    children: "A Cutiepie was born today, 24 years ago!",
                   }),
                   (0, i.jsx)("p", {
                     className: "mt-4 text-xl text-pink-200",
