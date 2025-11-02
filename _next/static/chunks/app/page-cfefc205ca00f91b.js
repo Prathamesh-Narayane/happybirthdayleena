@@ -165,7 +165,7 @@
                 initial: { opacity: 0, scale: 0.8 },
                 animate: { opacity: 1, scale: 1 },
                 transition: { duration: 1, ease: "easeOut", delay: 1.5 },
-                children: ["Happy Birthday, ", "Bacha ❤️ !"],
+                children: ["Happy Birthday, ", "Leena ❤️ !"],
               }),
             (0, i.jsxs)("div", {
               className:
@@ -291,7 +291,7 @@
           }),
         });
       }
-      let j = ["You", "are", "My", "Life ❤️"],
+      let j = ["Happy", "Birthday", "To", "You"],
         v = [
           { id: 1, xPct: 20, topPct: 18, color: "#fb7185" },
           { id: 2, xPct: 40, topPct: 24, color: "#f59e0b" },
